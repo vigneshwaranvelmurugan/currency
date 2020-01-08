@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.systimanx.curencyconveter",
+               "sha256_cert_fingerprints": ["FC:E8:A0:E3:73:24:2B:98:F9:78:F4:6C:95:8B:A9:FE:A0:8C:DA:CD:EF:E4:8F:15:0A:31:22:FC:66:09:65:D8"] }
+}]
